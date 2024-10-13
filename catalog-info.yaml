@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: djajcevic-app
   annotations:
-    github.com/project-slug: djajcevic/djajcevic-app-acs
+    github.com/project-slug: djajcevic-idp/djajcevic-app-acs
     backstage.io/environment: dev
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/name=djajcevic-app-bff'
     argocd/app-name: djajcevic-app
