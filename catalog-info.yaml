@@ -9,7 +9,7 @@ metadata:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/name=djajcevic-app-bff'
     argocd/app-name: djajcevic-app
   links:
-    - url: djajcevic-app.apps.idp.dhl.com/api
+    - url: https://djajcevic-app.apps.idp.dhl.com/api
       title: API
       icon: star
   tags:
