@@ -8,6 +8,7 @@ metadata:
     backstage.io/environment: dev
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/name=djajcevic-app-bff'
     argocd/app-name: djajcevic-app
+    sonarqube.org/project-key: djajcevic-app-bff
   links:
     - url: https://djajcevic-app.apps.idp.dhl.com/api
       title: API
