@@ -17,7 +17,7 @@ metadata:
     - java
 spec:
   type: service
-  lifecycle: development
+  lifecycle: archived
   owner: demo-team
   system: demo
   dependsOn:
